@@ -1,0 +1,13 @@
+{
+	"name": "metacall",
+	"authors": [
+		"Duxz"
+	],
+	"copyright": "Copyright (C) 2016 - 2020 Vicente Eduardo Ferrer Garcia <vic798@gmail.com>",
+	"description": "A library for providing inter-language foreign function interface calls",
+	"license": "Apache 2.0",
+	"version": "0.0.1",
+	"homepage": "https://metacall.io",
+	"targetType": "library",
+	"libs": ["metacall"]
+}
