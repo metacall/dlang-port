@@ -1,12 +1,11 @@
-<div align="center">
-  <a href="https://metacall.io" target="_blank"><img src="https://raw.githubusercontent.com/metacall/core/master/deploy/images/logo.png" alt="M E T A C A L L" style="max-width:100%; margin: 0 auto;" width="80" height="80">
-  <p><b>M E T A C A L L</b></p></a>
-  <p>A library for providing inter-language foreign function interface calls</p>
-</div>
+![M E T A C A L L](https://raw.githubusercontent.com/metacall/core/master/deploy/images/logo.png "M E T A C A L L")
+
+# M E T A C A L L
+## A library for providing inter-language foreign function interface calls
 
 # Abstract
 
-**[METACALL](https://github.com/metacall/core)** is a library that allows calling functions, methods or procedures between programming languages. With **METACALL** you can transparently execute code from / to any programming language, for example, call Python code from NodeJS.
+[METACALL](https://github.com/metacall/core) is a library that allows calling functions, methods or procedures between programming languages. With **METACALL** you can transparently execute code from / to any programming language, for example, call Python code from NodeJS.
 
 # Install
 

@@ -6,7 +6,7 @@
 	"copyright": "Copyright (C) 2016 - 2020 Vicente Eduardo Ferrer Garcia <vic798@gmail.com>",
 	"description": "A library for providing inter-language foreign function interface calls",
 	"license": "Apache 2.0",
-	"version": "0.0.2",
+	"version": "0.0.3",
 	"homepage": "https://metacall.io",
 	"targetType": "library",
 	"libs": ["metacall"]
